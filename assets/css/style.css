@@ -98,7 +98,7 @@
     left: 1px;
     top: 62px;
     border: 1px solid white;
-    background-color: var(--bgColorOne);
+    background: linear-gradient(var(--bggraOne), var(--bggraTwo));
     width: auto;
     padding: 0;
   }
